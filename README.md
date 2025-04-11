@@ -3,6 +3,11 @@
 This project features persona-based AI chatbots that emulate the speaking style and personality of two popular tech influencers — Hitesh Choudhary and Piyush Garg. 
 Built using React and powered by Google's Gemini API, these chatbots offer interactive conversations in a Hinglish (Hindi + English) tone, mimicking each creator’s unique communication style.
 
+## Overview
+
+![image](https://github.com/user-attachments/assets/ffa950a7-8a7f-4543-903f-002b7b786497)
+![image](https://github.com/user-attachments/assets/0ceb9d33-d5b2-4e37-b672-dc4cffcd22eb)
+
 ## Features
 
 - Two separate AI personas:
